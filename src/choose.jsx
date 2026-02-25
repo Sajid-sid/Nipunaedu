@@ -1,5 +1,5 @@
 import React from "react";
-import "./choose .css";
+import "./Choose.css";
 
 const WhyChoose = () => {
   return (
