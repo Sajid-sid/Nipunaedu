@@ -10,7 +10,7 @@ import Destination from "./Destinations";
 import Choose from "./Chooses";
 import Mission from "./Missions";
 import Contact from "./Contacts";
-import Footer from "./Footer";
+import Footer from "./footer";
 function App() {
   return (
    <>
