@@ -3,16 +3,14 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-import Navbar from './Navbar'
-
-import About from './About'
-import Services from './Services'
-import Destinations from './Destination'
-import Choose from './Choose'
-import Mission from './Mission'
-import Contact from './Contact'
-import Footer from './Footer'
-
+import Navbar from "./Navbar";
+import About from "./About";
+import Services from "./Services";
+import Destination from "./Destinations";
+import Choose from "./Chooses";
+import Mission from "./Missions";
+import Contact from "./Contacts";
+import Footer from "./Footer";
 function App() {
   return (
    <>
@@ -20,7 +18,7 @@ function App() {
    <Navbar />
    <About />
     <Services />
-    <Destinations />
+    <Destination />
     <Choose />
     <Mission />
     <Contact />
