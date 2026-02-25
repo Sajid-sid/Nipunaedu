@@ -5,13 +5,13 @@ import './App.css'
 
 import Navbar from './Navbar'
 
-import About from './about'
-import Services from './services'
-import Destinations from './destination'
-import Choose from './choose'
-import Mission from './mission'
-import Contact from './contact'
-import Footer from './footer'
+import About from './About'
+import Services from './Services'
+import Destinations from './Destination'
+import Choose from './Choose'
+import Mission from './Mission'
+import Contact from './Contact'
+import Footer from './Footer'
 
 function App() {
   return (
