@@ -4,8 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import Navbar from "./Navbar";
-import About from "./About";
-import Services from "./Services";
+import About from "./about";
+import Services from "./services";
 import Destination from "./Destinations";
 import Choose from "./Chooses";
 import Mission from "./Missions";
